@@ -16,7 +16,11 @@ iOS project
 10. Auto Scroll banner
 11. Custom Cells
 
-![](/Yums_Feed/yums_home.png) ![](/Yums_Feed/yums_category.png) ![](/Yums_Feed/yums_profile.png) ![SearchView 1](/Yums_Feed/search1.png) ![Search View 2](/Yums_Feed/search2.png)
+Home              |  Category            |  Profile
+:----------------:|:----------------: |:----------------:
+![](/Yums_Feed/yums_home.png)  |  ![](/Yums_Feed/yums_category.png) | ![](/Yums_Feed/yums_profile.png) 
+
+  ![SearchView 1](/Yums_Feed/search1.png) ![Search View 2](/Yums_Feed/search2.png)
 
 ### Yums Food
 
