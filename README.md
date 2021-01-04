@@ -36,7 +36,7 @@ Page 1              |  Page 2             |  Page 3          |  Page 4          
 
 Page 1              |  Page 2           
 :----------------:|:----------------: 
-![](Sales%20App/Sales_01.png)  |   ![](Sales%20App/Sales_02.png)  
+![](Sales_App/Sales_01.png)  |   ![](Sales_App/Sales_02.png)  
 
 
 
