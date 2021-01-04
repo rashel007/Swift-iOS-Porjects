@@ -34,10 +34,6 @@ Page 1              |  Page 2             |  Page 3          |  Page 4          
 ![](Service_App/IMG_0002.png)  |   ![](Service_App/IMG_0003.png)  | ![](Service_App/IMG_0004.png) |  ![](Service_App/IMG_0005.png)  | ![](Service_App/IMG_0006.png)
 
 
-Page 1              |  Page 2           
-:----------------:|:----------------: 
-![](Sales_App/Sales_01.PNG)  |   ![](Sales_App/Sales_02.PNG)  
-
 
 
 
